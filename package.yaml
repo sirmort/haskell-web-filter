@@ -3,8 +3,19 @@ version: "0.0.0"
 
 dependencies:
 - base
-- yesod-core
-
+- yesod-core >= 1.6
+- containers
+- yesod-form
+- conduit
+- resourcet
+- bytestring
+- filepath
+- text
+- friday
+- friday-juicypixels
+- JuicyPixels
+- word8
+- cereal
 # The library contains all of our application code. The executable
 # defined below is just a thin wrapper.
 library:

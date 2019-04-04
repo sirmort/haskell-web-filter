@@ -62,3 +62,10 @@ packages:
 #
 # Allow a newer minor version of GHC than the snapshot specifies
 # compiler-check: newer-minor
+extra-deps:
+  - friday-0.2.3.1@sha256:a8b4d38b593d866bebbdf141273ce70d2af8ca3351af86ea334dd5bce9252e58
+  - containers-0.5.11.0@sha256:28ad7337057442f75bc689315ab4ec7bdf5e6b2c39668f306672cecd82c02798
+  - ratio-int-0.1.2@sha256:304c6558e75eff2c7799558651091811d1d92e611594af8ac51edd10dd6c5cd8
+ # - friday-devil-0.1.1.1@sha256:ef96bbfb45c134ea61e38951407be53e324fd9b9665ef3dfde61bbae3f7f6250
+ # - transformers-0.4.3.0@sha256:60dafcffe8c4fe6f3760426fc35a325c8e6419877596518c76f46657280207a9
+  - friday-juicypixels-0.1.2.4@sha256:48de52293090d35904673771352e62bacbceb91de8c94d0e7202151a7634ffd5
